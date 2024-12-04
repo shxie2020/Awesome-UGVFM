@@ -22,16 +22,16 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 ## Vision Foundation Models Unifying Understanding and Generation
 
 ### Autoregression
-|  Title  |  Venue  |   Date   |  Orgnization  |   Open Source  |
+|  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | arXiv 2024 | 2024-05-16 | Meta | [Github](https://github.com/facebookresearch/chameleon) | - |
 
 ### Diffusion
-|  Title  |  Venue  |   Date   |  Orgnization  |   Open Source  |
+|  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
 ### Autoregression and Diffusion
-|  Title  |  Venue  |   Date   |  Orgnization  |   Open Source  |
+|  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 
 ---
