@@ -24,7 +24,8 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 ### Autoregression
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | arXiv 2024 | 2024-05-16 | Meta | [Github](https://github.com/facebookresearch/chameleon) | - |
+| [**JetFormer: An Autoregressive Generative Model of Raw Images and Text**](https://arxiv.org/abs/2411.19722) | arXiv 2024 | 2024-11-29 | Google Deepmind | - | - |
+| [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/abs/2405.09818) | arXiv 2024 | 2024-05-16 | Meta FAIR | [Github](https://github.com/facebookresearch/chameleon) | - |
 
 ### Diffusion
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
