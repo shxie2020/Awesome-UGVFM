@@ -38,7 +38,7 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 
 
 ## 🫶 Citation
-If you find our survey and repo useful, you can cite the paper as following formats, we will appreciate it a lot.
+If you find our survey and repo useful, you can cite the paper as following formats. We appreciate it a lot.
 
 ### Survey v1: Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective
 ```BibTeX
