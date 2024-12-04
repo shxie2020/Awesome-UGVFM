@@ -24,7 +24,7 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 ### Autoregression
 |  Title  |   Venue  |   Date   |   Code   |
 |:--------|:--------:|:--------:|:--------:|
-| <br> [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) <br> | arXiv 2024 | 2024-05-16 | [Github](https://github.com/facebookresearch/chameleon) | - |
+| [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | arXiv 2024 | 2024-05-16 | [Github](https://github.com/facebookresearch/chameleon) | - |
 
 ### Diffusion
 |  Title  |   Venue  |   Date   |   Code   |
