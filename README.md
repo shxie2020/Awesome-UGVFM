@@ -25,6 +25,8 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
 | [**JetFormer: An Autoregressive Generative Model of Raw Images and Text**](https://arxiv.org/abs/2411.19722) | arXiv 2024 | 2024-11-29 | Google Deepmind | - | - |
+| [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/abs/2411.17762) | arXiv 2024 | 2024-11-26 | ByteDance | - | - |
+| [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/abs/2411.16856) | arXiv 2024 | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
 | [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/abs/2405.09818) | arXiv 2024 | 2024-05-16 | Meta FAIR | [Github](https://github.com/facebookresearch/chameleon) | - |
 
 ### Diffusion
