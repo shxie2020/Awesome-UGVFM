@@ -32,6 +32,7 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 ### Diffusion
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**](https://proceedings.mlr.press/v202/bao23a/bao23a.pdf) | ICML 2023 | 2023-03-12 | THU, Shengshu, RUC, BAAI, Pazhou Lab | [Github](https://github.com/thu-ml/unidiffuser) | - |
 
 ### Autoregression and Diffusion
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
