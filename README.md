@@ -32,7 +32,11 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 ### Diffusion
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
+| [**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**](https://arxiv.org/pdf/2411.19786) | arXiv 2024 | 2024-11-29 | HKU, NUS, ZJU | - | - |
+| [**LaVin-DiT: Large Vision Diffusion Transformer**](https://arxiv.org/pdf/2411.11505) | arXiv 2024 | 2024-11-18 | USYD, NUS, UniMelb, AIsphere | [Github](https://github.com/DerrickWang005/LaVin-DiT) | - |
+| [**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**](https://arxiv.org/pdf/2409.15904) | arXiv 2024 | 2024-09-24 | Tuebingen U, MPI INF | [Github](https://github.com/Coral79/Unimotion) | - |
 | [**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**](https://proceedings.mlr.press/v202/bao23a/bao23a.pdf) | ICML 2023 | 2023-03-12 | THU, Shengshu, RUC, BAAI, Pazhou Lab | [Github](https://github.com/thu-ml/unidiffuser) | - |
+
 
 ### Autoregression and Diffusion
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
