@@ -24,18 +24,18 @@ Similar to LLM, building a generalist foundation model to solve all vision tasks
 ### Autoregression
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**JetFormer: An Autoregressive Generative Model of Raw Images and Text**](https://arxiv.org/abs/2411.19722) | arXiv 2024 | 2024-11-29 | Google Deepmind | - | - |
-| [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/abs/2411.17762) | arXiv 2024 | 2024-11-26 | ByteDance | - | - |
-| [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/abs/2411.16856) | arXiv 2024 | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
-| [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/abs/2405.09818) | arXiv 2024 | 2024-05-16 | Meta FAIR | [Github](https://github.com/facebookresearch/chameleon) | - |
+| [**JetFormer: An Autoregressive Generative Model of Raw Images and Text**](https://arxiv.org/pdf/2411.19722) | arXiv | 2024-11-29 | Google Deepmind | - | - |
+| [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/pdf/2411.17762) | arXiv | 2024-11-26 | ByteDance | - | - |
+| [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/pdf/2411.16856) | arXiv | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
+| [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | arXiv | 2024-05-16 | Meta FAIR | [Github](https://github.com/facebookresearch/chameleon) | - |
 
 ### Diffusion
 |  Title  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|
-| [**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**](https://arxiv.org/pdf/2411.19786) | arXiv 2024 | 2024-11-29 | HKU, NUS, ZJU | - | - |
-| [**LaVin-DiT: Large Vision Diffusion Transformer**](https://arxiv.org/pdf/2411.11505) | arXiv 2024 | 2024-11-18 | USYD, NUS, UniMelb, AIsphere | [Github](https://github.com/DerrickWang005/LaVin-DiT) | - |
-| [**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**](https://arxiv.org/pdf/2409.15904) | arXiv 2024 | 2024-09-24 | Tuebingen U, MPI INF | [Github](https://github.com/Coral79/Unimotion) | - |
-| [**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**](https://proceedings.mlr.press/v202/bao23a/bao23a.pdf) | ICML 2023 | 2023-03-12 | THU, Shengshu, RUC, BAAI, Pazhou Lab | [Github](https://github.com/thu-ml/unidiffuser) | - |
+| [**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**](https://arxiv.org/pdf/2411.19786) | arXiv | 2024-11-29 | HKU, NUS, ZJU | - | - |
+| [**LaVin-DiT: Large Vision Diffusion Transformer**](https://arxiv.org/pdf/2411.11505) | arXiv | 2024-11-18 | USYD, NUS, UniMelb, AIsphere | [Github](https://github.com/DerrickWang005/LaVin-DiT) | - |
+| [**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**](https://arxiv.org/pdf/2409.15904) | arXiv | 2024-09-24 | Tuebingen U, MPI INF | [Github](https://github.com/Coral79/Unimotion) | - |
+| [**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**](https://proceedings.mlr.press/v202/bao23a/bao23a.pdf) | ICML | 2023-03-12 | THU, Shengshu, RUC, BAAI, Pazhou Lab | [Github](https://github.com/thu-ml/unidiffuser) | - |
 
 
 ### Autoregression and Diffusion
