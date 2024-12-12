@@ -30,7 +30,9 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/pdf/2411.17762) | MUSE-VL | arXiv | 2024-11-26 | ByteDance | - | - |
 | [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/pdf/2411.16856) | SAR3D | arXiv | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
 | [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | Chameleon | arXiv | 2024-05-16 | Meta FAIR | [Github](https://github.com/facebookresearch/chameleon) | - |
-| [**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.pdf) | CoDi-2 | CVPR | 2023-11-08 | UC Berkeley, Microsoft, Zoom, UNC Chapel Hill | [Github](https://github.com/microsoft/i-Code/tree/main/CoDi-2) | - |
+| [**Scalable pre-training of large autoregressive image models**](https://openreview.net/pdf?id=c92KDfEZTg) | AIM | ICML | 2024-01-16 | Apple | [Github](https://github.com/apple/ml-aim) | - |
+| [**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision Language Audio and Action**](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_Sequential_Modeling_Enables_Scalable_Learning_for_Large_Vision_Models_CVPR_2024_paper.pdf) | LVM | CVPR | 2023-12-28 | Allen Institute for AI, UIUC, UW | [Github](https://github.com/allenai/unified-io-2) | - |
+| [**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf) | Unified-IO 2 | CVPR | 2023-12-01 | UC Berkeley, JHU | [Github](https://github.com/ytongbai/LVM) | - |
 | [**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.04589) | TEAL | arXiv | 2023-11-08 | Tencent | - | - |
 
 ### Diffusion
@@ -45,6 +47,9 @@ As the long-term roadmap for building a generalist foundation model to solve all
 ### Autoregression and Diffusion
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**Generative multimodal models are in-context learners**](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Generative_Multimodal_Models_are_In-Context_Learners_CVPR_2024_paper.pdf) | Emu2 | CVPR | 2023-12-20 | BAAI, THU, PKU | [Github](https://github.com/baaivision/Emu/tree/main/Emu2) | - |
+| [**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**](https://arxiv.org/pdf/2312.09251) | VL-GPT | arXiv | 2023-12-14 | XJTU, Tencent, HKU | [Github](https://github.com/AILab-CVC/VL-GPT) | - |
+| [**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.pdf) | CoDi-2 | CVPR | 2023-11-30 | UC Berkeley, Microsoft, Zoom, UNC Chapel Hill | [Github](https://github.com/microsoft/i-Code/tree/main/CoDi-2) | - |
 | [**DreamLLM: Synergistic Multimodal Comprehension and Creation**](https://openreview.net/pdf?id=y01KGvd9Bw) | DreamLLM | ICLR | 2023-09-20 | XJTU, IIISCT, MEGVII Technology, THU, HUST, Shanghai AI Lab, Shanghai Qi Zhi Institute | [Github](https://github.com/RunpeiDong/DreamLLM) | - |
 | [**Emu: Generative Pretraining in Multimodality**](https://proceedings.neurips.cc/paper_files/paper/2023/file/43a69d143273bd8215578bde887bb552-Paper-Conference.pdf) | Emu | ICLR | 2023-07-11 | BAAI, THU, PKU | [Github](https://github.com/baaivision/Emu) | - |
 | [**Generating Images with Multimodal Language Models**](https://proceedings.neurips.cc/paper_files/paper/2023/file/43a69d143273bd8215578bde887bb552-Paper-Conference.pdf) | GILL | NeurIPS | 2023-05-26 | CMU | [Github](https://github.com/kohjingyu/gill) | - |
