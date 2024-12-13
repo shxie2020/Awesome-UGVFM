@@ -34,6 +34,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) | Emu3 | arXiv | 2024-09-27 | BAAI | [Github](https://github.com/baaivision/Emu3) | - |
 | [**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191) | Qwen2-VL | arXiv | 2024-09-18 | Alibaba | [Github](https://github.com/QwenLM/Qwen2-VL) | - |
 | [**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**](https://arxiv.org/pdf/2408.08872) | xGen-MM | arXiv | 2024-08-16 | Salesforce, UW | [Github](https://github.com/salesforce/LAVIS/tree/xgen-mm) | - |
+| [**ANOLE: An Open, Autoregressive, Native Large Multimodal Models for Interleaved Image-Text Generation**](https://arxiv.org/pdf/2407.06135) | ANOLE | arXiv | 2024-06-08 | SJTU, Shanghai AI Lab, FDU, GAIR | [Github](https://github.com/GAIR-NLP/anole) | - |
 | [**Chameleon: Mixed-Modal Early-Fusion Foundation Models**](https://arxiv.org/pdf/2405.09818) | Chameleon | arXiv | 2024-05-16 | Meta FAIR | [Github](https://github.com/facebookresearch/chameleon) | - |
 | [**GPT-4o System Card**](https://arxiv.org/pdf/2410.21276) | GPT-4o | arXiv | 2024-05-13 | OpenAI | - | - |
 | [**WorldGPT: Empowering LLM as Multimodal World Model**](https://arxiv.org/pdf/2404.18202) | WorldGPT | MM | 2024-04-28 | ZJU, NUS | [Github](https://github.com/DCDmllm/WorldGPT) | - |
