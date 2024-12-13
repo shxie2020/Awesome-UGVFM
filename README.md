@@ -26,9 +26,11 @@ As the long-term roadmap for building a generalist foundation model to solve all
 ### Autoregression
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://arxiv.org/pdf/2412.05271) | InternVL 2.5 | arXiv | 2024-12-06 | Shanghai AI Lab, SenseTime, THU, NJU, FDU, CUHK, SJTU | - | - |
 | [**JetFormer: An Autoregressive Generative Model of Raw Images and Text**](https://arxiv.org/pdf/2411.19722) | JetFormer | arXiv | 2024-11-29 | Google Deepmind | - | - |
 | [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/pdf/2411.17762) | MUSE-VL | arXiv | 2024-11-26 | ByteDance | - | - |
 | [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/pdf/2411.16856) | SAR3D | arXiv | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
+| [**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2410.13848) | Janus | arXiv | 2024-10-17 | DeepSeek, HKU, PKU | [Github](https://github.com/deepseek-ai/Janus) | - |
 | [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) | Emu3 | arXiv | 2024-09-27 | BAAI | [Github](https://github.com/baaivision/Emu3) | - |
 | [**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191) | Qwen2-VL | arXiv | 2024-09-18 | Alibaba | [Github](https://github.com/QwenLM/Qwen2-VL) | - |
 | [**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**](https://arxiv.org/pdf/2408.08872) | xGen-MM | arXiv | 2024-08-16 | Salesforce, UW | [Github](https://github.com/salesforce/LAVIS/tree/xgen-mm) | - |
@@ -54,6 +56,9 @@ As the long-term roadmap for building a generalist foundation model to solve all
 ### Autoregression and Diffusion
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**](https://arxiv.org/pdf/2412.06673) | ILLUME | arXiv | 2024-12-09 | HUAWEI | - | - |
+| [**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**](https://arxiv.org/pdf/2410.13861) | PUMA | arXiv | 2024-10-17 | CUHK, HKU, SenseTime, Shanghai AI Lab, THU | [Github](https://github.com/rongyaofang/PUMA) | - |
+| [**LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**](https://arxiv.org/pdf/2410.13861) | LLaMA-Mesh | arXiv | 2024-11-14 | THU, NVIDIA | [Github](https://github.com/nv-tlabs/LLaMa-Mesh) | - |
 | [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) | MIO | arXiv | 2024-09-26 | BHU, 01.AI, M-A-P, PolyU, UAlberta, UWaterloo, UoM, CAS, PKU, HKUST | [Github](https://github.com/MIO-Team/MIO) | - |
 | [**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**](https://arxiv.org/pdf/2408.12528) | Show-o | arXiv | 2024-08-22 | NUS, ByteDance | [Github](https://github.com/showlab/Show-o) | - |
 | [**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**](https://arxiv.org/pdf/2408.11039) | TransFusion | arXiv | 2024-08-20 | Meta, Waymo, USC | [Github](https://github.com/lucidrains/transfusion-pytorch) | - |
