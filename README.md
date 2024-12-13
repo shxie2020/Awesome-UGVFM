@@ -32,6 +32,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/pdf/2411.16856) | SAR3D | arXiv | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
 | [**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2410.13848) | Janus | arXiv | 2024-10-17 | DeepSeek, HKU, PKU | [Github](https://github.com/deepseek-ai/Janus) | - |
 | [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) | Emu3 | arXiv | 2024-09-27 | BAAI | [Github](https://github.com/baaivision/Emu3) | - |
+| [**UniMuMo: Unified Text, Music and Motion Generation**](https://arxiv.org/pdf/2409.12191) | UniMuMo | arXiv | 2024-10-06 | CUHK, UW, UBC, UMass Amherst, MIT-IBM Watson AI Lab, Cisco | [Github](https://github.com/hanyangclarence/UniMuMo) | - |
 | [**Qwen2-VL: Enhancing Vision-Language Model's Perception of the World at Any Resolution**](https://arxiv.org/pdf/2409.12191) | Qwen2-VL | arXiv | 2024-09-18 | Alibaba | [Github](https://github.com/QwenLM/Qwen2-VL) | - |
 | [**VILA-U: a Unified Foundation Model Integrating Visual Understanding and Generation**](https://arxiv.org/pdf/2409.04429) | VILA-U | arXiv | 2024-09-06 | THU, MIT, NVIDIA, UC Berkeley, UC San Diego | [Github](https://github.com/mit-han-lab/vila-u) | - |
 | [**xGen-MM (BLIP-3): A Family of Open Large Multimodal Models**](https://arxiv.org/pdf/2408.08872) | xGen-MM | arXiv | 2024-08-16 | Salesforce, UW | [Github](https://github.com/salesforce/LAVIS/tree/xgen-mm) | - |
@@ -40,12 +41,16 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**GPT-4o System Card**](https://arxiv.org/pdf/2410.21276) | GPT-4o | arXiv | 2024-05-13 | OpenAI | - | - |
 | [**WorldGPT: Empowering LLM as Multimodal World Model**](https://arxiv.org/pdf/2404.18202) | WorldGPT | MM | 2024-04-28 | ZJU, NUS | [Github](https://github.com/DCDmllm/WorldGPT) | - |
 | [**GiT: Towards Generalist Vision Transformer through Universal Language Interface**](https://arxiv.org/pdf/2403.09394) | GiT | ECCV | 2024-03-14 | PKU, Max Planck Institute for Informatics, CUHK, ETH Zurich | [Github](https://github.com/Haiyang-W/GiT) | - |
+| [**UniCode: Learning a Unified Codebook for Multimodal Large Language Models**](https://arxiv.org/pdf/2403.09072) | Unicode | ECCV | 2024-03-14 | BAAI, PKU | - | - |
 | [**Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization**](https://arxiv.org/pdf/2402.03161) | Video-LaVIT | ICML | 2024-02-05 | PKU, Kuaishou | [Github](https://github.com/jy0205/LaVIT) | - |
 | [**Scalable pre-training of large autoregressive image models**](https://openreview.net/pdf?id=c92KDfEZTg) | AIM | ICML | 2024-01-16 | Apple | [Github](https://github.com/apple/ml-aim) | - |
 | [**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision Language Audio and Action**](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf) | Unified-IO 2 | CVPR | 2023-12-28 | Allen  Institute for AI, UIUC, UW | [Github](https://github.com/allenai/unified-io-2) | - |
 | [**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_Sequential_Modeling_Enables_Scalable_Learning_for_Large_Vision_Models_CVPR_2024_paper.pdf) | LVM | CVPR | 2023-12-01 | UC Berkeley, JHU | [Github](https://github.com/ytongbai/LVM) | - |
+| [**ShapeGPT: 3D Shape Generation with A Unified Multi-modal Language Model**](https://arxiv.org/pdf/2311.04589) | ShapeGPT | arXiv | 2023-11-29 | FDU, Tencent, ShanghaiTech, Zhejiang Lab | [Github](https://arxiv.org/pdf/2311.17618) | - |
 | [**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.04589) | TEAL | arXiv | 2023-11-08 | Tencent | - | - |
-| [**DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training**](https://arxiv.org/pdf/2203.09052) | DU-VLG | ACL 2022 | 2022-03-17 | Baidu | - | - |
+| [**Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization**](https://arxiv.org/pdf/2309.04669) | LaVIT | ICLR | 2023-09-09 | PKU, Kuaishou | [Github](https://github.com/jy0205/LaVIT) | - |
+| [**Write and Paint: Generative Vision-Language Models are Unified Modal Learners**](https://arxiv.org/pdf/2206.07699) | DAVINCI | ICLR | 2022-06-15 | HKUST, ByteDance, SJTU | [Github](https://github.com/shizhediao/DaVinci) | - |
+| [**DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training**](https://arxiv.org/pdf/2203.09052) | DU-VLG | ACL | 2022-03-17 | Baidu | - | - |
 
 ### Diffusion
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
