@@ -45,6 +45,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**Unified-IO 2: Scaling Autoregressive Multimodal Models with Vision Language Audio and Action**](https://openaccess.thecvf.com/content/CVPR2024/papers/Lu_Unified-IO_2_Scaling_Autoregressive_Multimodal_Models_with_Vision_Language_Audio_CVPR_2024_paper.pdf) | Unified-IO 2 | CVPR | 2023-12-28 | Allen  Institute for AI, UIUC, UW | [Github](https://github.com/allenai/unified-io-2) | - |
 | [**Sequential Modeling Enables Scalable Learning for Large Vision Models**](https://openaccess.thecvf.com/content/CVPR2024/papers/Bai_Sequential_Modeling_Enables_Scalable_Learning_for_Large_Vision_Models_CVPR_2024_paper.pdf) | LVM | CVPR | 2023-12-01 | UC Berkeley, JHU | [Github](https://github.com/ytongbai/LVM) | - |
 | [**TEAL: Tokenize and Embed ALL for Multi-modal Large Language Models**](https://arxiv.org/pdf/2311.04589) | TEAL | arXiv | 2023-11-08 | Tencent | - | - |
+| [**DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training**](https://arxiv.org/pdf/2203.09052) | DU-VLG | ACL 2022 | 2022-03-17 | Baidu | - | - |
 
 ### Diffusion
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
@@ -52,6 +53,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**](https://arxiv.org/pdf/2411.19786) | MoTe | arXiv | 2024-11-29 | HKU, NUS, ZJU | - | - |
 | [**LaVin-DiT: Large Vision Diffusion Transformer**](https://arxiv.org/pdf/2411.11505) | LaVin-DiT | arXiv | 2024-11-18 | USYD, NUS, UniMelb, AIsphere | [Github](https://github.com/DerrickWang005/LaVin-DiT) | - |
 | [**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**](https://arxiv.org/pdf/2409.15904) | Unimotion | arXiv | 2024-09-24 | Tuebingen U, Max Planck Institute for Informatics | [Github](https://github.com/Coral79/Unimotion) | - |
+| [**GenRec: Unifying Video Generation and Recognition with Diffusion Models**](https://arxiv.org/pdf/2408.15241) | GenRec | NeurIPS | 2024-08-27 | FDU, Shanghai Collaborative Innovation Center of Intelligent Visual Computing, UMD | [Github](https://github.com/wengzejia1/GenRec) | - |
 | [**One Transformer Fits All Distributions in Multi-Modal Diffusion at Scale**](https://proceedings.mlr.press/v202/bao23a/bao23a.pdf) | UniDiffuser | ICML | 2023-03-12 | THU, Shengshu, RUC, BAAI, Pazhou Lab | [Github](https://github.com/thu-ml/unidiffuser) | - |
 
 
@@ -70,6 +72,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**VisionLLM v2: An End-to-End Generalist Multimodal Large Language Model for Hundreds of Vision-Language Tasks**](https://arxiv.org/pdf/2406.08394) | VisionLLM v2 | arXiv | 2024-06-12 | Shanghai AI Lab, HKU, THU, BIT, HKUST, NJU, SenseTime | [Github](https://github.com/OpenGVLab/VisionLLM) | - |
 | [**SEED-X: Multimodal Models with Unified Multi-granularity Comprehension and Generation**](https://arxiv.org/pdf/2404.14396) | SEED-X | arXiv | 2024-04-22 | Tencent | [Github](https://github.com/AILab-CVC/SEED-X) | - |
 | [**AnyGPT: Unified Multimodal LLM with Discrete Sequence Modeling**](https://arxiv.org/pdf/2402.12226) | AnyGPT | arXiv | 2024-02-19 | FDU, Multimodal Art Projection Research Community, Shanghai AI Lab | [Github](https://junzhan2000.github.io/AnyGPT.github.io/) | - |
+| [**Uni3D-LLM: Unifying Point Cloud Perception, Generation and Editing with Large Language Models**](https://arxiv.org/pdf/2402.03327) |  Uni3D-LLM| arXiv | 2024-01-09 | Shanghai AI Lab, DUT, SDU | - | - |
 | [**Generative multimodal models are in-context learners**](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Generative_Multimodal_Models_are_In-Context_Learners_CVPR_2024_paper.pdf) | Emu2 | CVPR | 2023-12-20 | BAAI, THU, PKU | [Github](https://github.com/baaivision/Emu/tree/main/Emu2) | - |
 | [**VL-GPT: A Generative Pre-trained Transformer for Vision and Language Understanding and Generation**](https://arxiv.org/pdf/2312.09251) | VL-GPT | arXiv | 2023-12-14 | XJTU, Tencent, HKU | [Github](https://github.com/AILab-CVC/VL-GPT) | - |
 | [**CoDi-2: In-Context, Interleaved, and Interactive Any-to-Any Generation**](https://openaccess.thecvf.com/content/CVPR2024/papers/Tang_CoDi-2_In-Context_Interleaved_and_Interactive_Any-to-Any_Generation_CVPR_2024_paper.pdf) | CoDi-2 | CVPR | 2023-11-30 | UC Berkeley, Microsoft, Zoom, UNC Chapel Hill | [Github](https://github.com/microsoft/i-Code/tree/main/CoDi-2) | - |
