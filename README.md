@@ -30,6 +30,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 | [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/pdf/2411.17762) | MUSE-VL | arXiv | 2024-11-26 | ByteDance | - | - |
 | [**UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing**](https://arxiv.org/pdf/2411.16781) | UniPose | arXiv | 2024-11-25 | CAS | - | - |
 | [**SAR3D: Autoregressive 3D Object Generation and Understanding via Multi-scale 3D VQVAE**](https://arxiv.org/pdf/2411.16856) | SAR3D | arXiv | 2024-11-25 | NTU, Shanghai AI Lab | [Github](https://github.com/cyw-3d/SAR3D) | - |
+| [**LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**](https://arxiv.org/pdf/2410.13861) | LLaMA-Mesh | arXiv | 2024-11-14 | THU, NVIDIA | [Github](https://github.com/nv-tlabs/LLaMa-Mesh) | - |
 | [**Janus: Decoupling Visual Encoding for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2410.13848) | Janus | arXiv | 2024-10-17 | DeepSeek, HKU, PKU | [Github](https://github.com/deepseek-ai/Janus) | - |
 | [**Emu3: Next-Token Prediction is All You Need**](https://arxiv.org/pdf/2409.18869) | Emu3 | arXiv | 2024-09-27 | BAAI | [Github](https://github.com/baaivision/Emu3) | - |
 | [**UniMuMo: Unified Text, Music and Motion Generation**](https://arxiv.org/pdf/2409.12191) | UniMuMo | arXiv | 2024-10-06 | CUHK, UW, UBC, UMass Amherst, MIT-IBM Watson AI Lab, Cisco | [Github](https://github.com/hanyangclarence/UniMuMo) | - |
@@ -67,7 +68,6 @@ As the long-term roadmap for building a generalist foundation model to solve all
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**](https://arxiv.org/pdf/2412.06673) | ILLUME | arXiv | 2024-12-09 | HUAWEI | - | - |
-| [**LLaMA-Mesh: Unifying 3D Mesh Generation with Language Models**](https://arxiv.org/pdf/2410.13861) | LLaMA-Mesh | arXiv | 2024-11-14 | THU, NVIDIA | [Github](https://github.com/nv-tlabs/LLaMa-Mesh) | - |
 | [**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**](https://arxiv.org/pdf/2410.13861) | PUMA | arXiv | 2024-10-17 | CUHK, HKU, SenseTime, Shanghai AI Lab, THU | [Github](https://github.com/rongyaofang/PUMA) | - |
 | [**Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**](https://openreview.net/pdf?id=kPmSfhCM5s) | Vitron | NeurIPS | 2024-09-26 | Skywork AI, NUS, NTU | [Github](https://github.com/SkyworkAI/Vitron) | - |
 | [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) | MIO | arXiv | 2024-09-26 | BHU, 01.AI, M-A-P, PolyU, UAlberta, UWaterloo, UoM, CAS, PKU, HKUST | [Github](https://github.com/MIO-Team/MIO) | - |
