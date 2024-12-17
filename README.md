@@ -1,6 +1,6 @@
 # Awesome Vision Foundation Models Unifying Understanding and Generation
 Solving all language tasks and exploring scaling laws with LLMs are so cool. *How about building vision foundation models?* Also, we are now good at handling vision tasks seperately. *How about unifying vision understanding and generation?*  
-As the long-term roadmap for building a generalist foundation model to solve all vision tasks has not yet been fully determined, we conduct the first survey to provide comprehensive summary and in-depth analysis on vision foundation models unifying both understanding and generation. This repository provides a curated list of related papers and resources, come take a look and let's share insights on unresolved challenges together! Please stay tuned and give us a 🌟 if you are interested in our project, we will update the latest advancements continuously.
+As the long-term roadmap for building a generalist foundation model to solve all vision tasks has not yet been fully determined, we conduct the first survey to provide comprehensive summary and in-depth analysis on vision foundation models unifying both understanding and generation. This repository provides a curated list of related papers and resources, come take a look and let's share insights on unresolved challenges together! Please stay tuned and give us a 🌟 if you are interested in our project, we will update the latest advancements both on our paper and this repo continuously.
 
 
 ---
@@ -9,6 +9,10 @@ As the long-term roadmap for building a generalist foundation model to solve all
 `[2024-10-29]` We have released the survey v1: [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217).
 
 ---
+
+## 🍻 Contributions
+
+Both suggestions about our project and sharing of your work are welcomed! Please feel free to open an issue, pull a request or send us an email.
 
 
 ## 📃 Table of Contents
