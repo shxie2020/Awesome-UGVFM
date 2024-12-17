@@ -99,6 +99,12 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 
 ---
 
+## 👍 Wonderful Related Survey
+1. [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747) | [Project Repo](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
+2. [Autoregressive Models in Vision: A Survey](https://arxiv.org/pdf/2411.05902) | [Project Repo](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
+3. [A survey on multimodal large language models](https://arxiv.org/pdf/2306.13549) | [Project Repo](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
+4. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721) | [Project Repo](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+
 
 ## 🫶 Citation
 If you find our survey and repo useful, you can cite the paper as following formats. We appreciate it a lot.
