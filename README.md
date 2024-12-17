@@ -33,6 +33,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://arxiv.org/pdf/2412.05271) | InternVL 2.5 | arXiv | 2024-12-06 | Shanghai AI Lab, SenseTime, THU, NJU, FDU, CUHK, SJTU | [Github](https://github.com/OpenGVLab/InternVL) | - |
+| [**TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation**](https://arxiv.org/pdf/2412.03069) | TokenFlow | arXiv | 2024-12-04 | ByteDance | [Github](https://github.com/ByteFlow-AI/TokenFlow) | - |
 | [**JetFormer: An Autoregressive Generative Model of Raw Images and Text**](https://arxiv.org/pdf/2411.19722) | JetFormer | arXiv | 2024-11-29 | Google Deepmind | - | - |
 | [**MUSE-VL: Modeling Unified VLM through Semantic Discrete Encoding**](https://arxiv.org/pdf/2411.17762) | MUSE-VL | arXiv | 2024-11-26 | ByteDance | - | - |
 | [**UniPose: A Unified Multimodal Framework for Human Pose Comprehension, Generation and Editing**](https://arxiv.org/pdf/2411.16781) | UniPose | arXiv | 2024-11-25 | CAS | - | - |
