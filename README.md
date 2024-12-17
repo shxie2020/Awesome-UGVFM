@@ -6,7 +6,7 @@ As the long-term roadmap for building a generalist foundation model to solve all
 ---
 
 ## 🔥 News
-`[2024-12-02]` We start this repo, and full versions of our survey and repo are coming soon.  
+`[2024-12-02]` We start this repo, and a full version of our survey and repo is coming soon.  
 `[2024-10-29]` We have released the survey v1: [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217).
 
 ---
