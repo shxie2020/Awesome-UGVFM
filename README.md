@@ -14,6 +14,8 @@ As the long-term roadmap for building a generalist foundation model to solve all
 
 Both suggestions about our project and sharing of your work are welcomed! Please feel free to open an issue, pull a request or send us an email.
 
+---
+
 
 ## 📃 Table of Contents
 - [Vision-Foundation-Models-Unifying-Understanding-and-Generation](#-vision-foundation-models-unifying-understanding-and-generation)
