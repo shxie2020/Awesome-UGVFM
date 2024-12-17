@@ -120,6 +120,6 @@ If you find our survey and repo useful, you can cite the paper as following form
 }
 ```
 
-### The full version of Survey is coming soon!
+### The full version of our survey is coming soon!
 
 ---
