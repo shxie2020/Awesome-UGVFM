@@ -23,7 +23,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
   - [Autoregression](#-autoregression)
   - [Diffusion](#-diffusion)
   - [Autoregression and Diffusion](#-autoregression-and-diffusion)
- 
+- [Wonderful-Related-Survey](#-wonderful-related-survey)
 ---
 
 
