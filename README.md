@@ -105,6 +105,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 3. [A survey on multimodal large language models](https://arxiv.org/pdf/2306.13549) | [Project Repo](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 4. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721) | [Project Repo](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
 
+---
 
 ## 🫶 Citation
 If you find our survey and repo useful, you can cite the paper as following formats. We appreciate it a lot.
