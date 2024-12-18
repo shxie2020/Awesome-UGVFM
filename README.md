@@ -66,6 +66,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 ### Diffusion
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows**](https://arxiv.org/pdf/2412.01169) | OmniFlow | arXiv | 2024-12-02 | UCLA, Panasonic AI Research, Saleforce | - | - |
 | [**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**](https://arxiv.org/pdf/2411.19786) | MoTe | arXiv | 2024-11-29 | HKU, NUS, ZJU | - | - |
 | [**LaVin-DiT: Large Vision Diffusion Transformer**](https://arxiv.org/pdf/2411.11505) | LaVin-DiT | arXiv | 2024-11-18 | USYD, NUS, UniMelb, AIsphere | [Github](https://github.com/DerrickWang005/LaVin-DiT) | - |
 | [**Unimotion: Unifying 3D Human Motion Synthesis and Understanding**](https://arxiv.org/pdf/2409.15904) | Unimotion | arXiv | 2024-09-24 | Tuebingen U, Max Planck Institute for Informatics | [Github](https://github.com/Coral79/Unimotion) | - |
@@ -77,9 +78,11 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 |  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**](https://arxiv.org/pdf/2412.06673) | ILLUME | arXiv | 2024-12-09 | HUAWEI | - | - |
+| [**Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads**](https://arxiv.org/pdf/2412.00127) | Orthus | arXiv | 2024-11-28 | Kuaishou | - | - |
 | [**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**](https://arxiv.org/pdf/2410.13861) | PUMA | arXiv | 2024-10-17 | CUHK, HKU, SenseTime, Shanghai AI Lab, THU | [Github](https://github.com/rongyaofang/PUMA) | - |
 | [**Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**](https://openreview.net/pdf?id=kPmSfhCM5s) | Vitron | NeurIPS | 2024-09-26 | Skywork AI, NUS, NTU | [Github](https://github.com/SkyworkAI/Vitron) | - |
 | [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) | MIO | arXiv | 2024-09-26 | BHU, 01.AI, M-A-P, PolyU, UAlberta, UWaterloo, UoM, CAS, PKU, HKUST | [Github](https://github.com/MIO-Team/MIO) | - |
+| [**MonoFormer: One Transformer for Both Diffusion and Autoregression**](https://arxiv.org/pdf/2409.16280) | MonoFormer | arXiv | 2024-09-24 | Baidu, UTS | [Github](https://github.com/MonoFormer/MonoFormer) | - |
 | [**Show-o: One Single Transformer to Unify Multimodal Understanding and Generation**](https://arxiv.org/pdf/2408.12528) | Show-o | arXiv | 2024-08-22 | NUS, ByteDance | [Github](https://github.com/showlab/Show-o) | - |
 | [**Transfusion: Predict the Next Token and Diffuse Images with One Multi-Modal Model**](https://arxiv.org/pdf/2408.11039) | TransFusion | arXiv | 2024-08-20 | Meta, Waymo, USC | [Github](https://github.com/lucidrains/transfusion-pytorch) | - |
 | [**UnifiedMLLM: Enabling Unified Representation for Multi-modal Multi-tasks With Large Language Model**](https://arxiv.org/pdf/2408.02503) | UnifiedMLLM | arXiv | 2024-08-05 | ByteDance, FDU, USTC | [Github](https://github.com/lzw-lzw/UnifiedMLLM) | - |
