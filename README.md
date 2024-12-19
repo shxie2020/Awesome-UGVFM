@@ -31,7 +31,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 ## Vision Foundation Models Unifying Understanding and Generation
 
 ### Autoregression
-|  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
+|  Title  |  name  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [**Expanding Performance Boundaries of Open-Source Multimodal Models with Model, Data, and Test-Time Scaling**](https://arxiv.org/pdf/2412.05271) | InternVL 2.5 | arXiv | 2024-12-06 | Shanghai AI Lab, SenseTime, THU, NJU, FDU, CUHK, SJTU | [Github](https://github.com/OpenGVLab/InternVL) | - |
 | [**TokenFlow: Unified Image Tokenizer for Multimodal Understanding and Generation**](https://arxiv.org/pdf/2412.03069) | TokenFlow | arXiv | 2024-12-04 | ByteDance | [Github](https://github.com/ByteFlow-AI/TokenFlow) | - |
@@ -65,7 +65,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 | [**DU-VLG: Unifying Vision-and-Language Generation via Dual Sequence-to-Sequence Pre-training**](https://arxiv.org/pdf/2203.09052) | DU-VLG | ACL | 2022-03-17 | Baidu | - | - |
 
 ### Diffusion
-|  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
+|  Title  |  name  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [**OmniFlow: Any-to-Any Generation with Multi-Modal Rectified Flows**](https://arxiv.org/pdf/2412.01169) | OmniFlow | arXiv | 2024-12-02 | UCLA, Panasonic AI Research, Saleforce | - | - |
 | [**MoTe: Learning Motion-Text Diffusion Model for Multiple Generation Tasks**](https://arxiv.org/pdf/2411.19786) | MoTe | arXiv | 2024-11-29 | HKU, NUS, ZJU | - | - |
@@ -76,7 +76,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 
 
 ### Autoregression and Diffusion
-|  Title  |  Abbreviation  |  Venue  |   Date   |  Organization  |   Open Source  |
+|  Title  |  name  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
 | [**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**](https://arxiv.org/pdf/2412.06673) | ILLUME | arXiv | 2024-12-09 | HUAWEI | - | - |
 | [**Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads**](https://arxiv.org/pdf/2412.00127) | Orthus | arXiv | 2024-11-28 | Kuaishou | - | - |
