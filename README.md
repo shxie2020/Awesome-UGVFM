@@ -14,7 +14,7 @@ This repository provides a curated list of related papers and resources, come ta
 
 ## 🍻 Contributions
 
-Both suggestions about our project and sharing of your work are welcomed! Please feel free to open an issue, pull a request or send us an email. We will update regularly.
+Both suggestions about our project and sharing of your work are welcomed! Please feel free to open an issue, pull a request or send us an email. We will update them regularly.
 
 ---
 
