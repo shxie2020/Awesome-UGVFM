@@ -6,11 +6,13 @@ This repository provides a curated list of related papers and resources, come ta
 
 ---
 
+
 ## 🔥 News
 `[2024-12-02]` We build this repo. A complete and revised version of our survey is coming soon.  
 `[2024-10-29]` We have released the survey v1: [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217).
 
 ---
+
 
 ## 🍻 Contributions
 
@@ -104,6 +106,7 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 
 ---
 
+
 ## 👍 Related Survey
 Here, we also recommend some wonderful related surveys.
 1. [Diffusion Models in Vision: A Survey](https://arxiv.org/pdf/2209.04747) | [Project Repo](https://github.com/CroitoruAlin/Diffusion-Models-in-Vision-A-Survey)
@@ -112,6 +115,7 @@ Here, we also recommend some wonderful related surveys.
 4. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721) | [Project Repo](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
 
 ---
+
 
 ## 🫶 Citation
 If you find our survey and repo useful, you can cite the paper as following formats. We will appreciate it a lot.
