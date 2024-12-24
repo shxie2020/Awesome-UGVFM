@@ -8,6 +8,8 @@ This repository provides a curated list of related papers and resources, come ta
 
 
 ## 🔥 News
+`[2024-12-24]` We make this repo public, looking forward to your feedbacks. 
+
 `[2024-12-02]` We build this repo, a complete and revised version of our survey is coming soon.  
 
 `[2024-10-29]` We have released the survey v1: [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217).
