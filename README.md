@@ -124,7 +124,7 @@ Here, we also recommend some wonderful related surveys.
 
 
 ## 🫶 Citation
-If you find our survey and repo useful, you can cite the paper as following formats. We will appreciate it a lot.
+If you find our work useful, you can cite the paper as following formats. We will appreciate it a lot.
 
 ### Survey v1: Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective
 ```BibTeX
