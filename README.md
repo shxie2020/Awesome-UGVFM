@@ -80,8 +80,10 @@ Both suggestions about our project and sharing of your work are welcomed! Please
 ### Autoregression and Diffusion
 |  Title  |  name  |  Venue  |   Date   |  Organization  |   Open Source  |
 |:--------|:--------:|:--------:|:--------:|:--------:|:--------:|
+| [**MetaMorph: Multimodal Understanding and Generation via Instruction Tuning**](https://arxiv.org/pdf/2412.14164) | MetaMorph | arXiv | 2024-12-18 | Meta, NYU | - | - |
 | [**ILLUME: Illuminating Your LLMs to See, Draw, and Self-Enhance**](https://arxiv.org/pdf/2412.06673) | ILLUME | arXiv | 2024-12-09 | HUAWEI | - | - |
 | [**Orthus: Autoregressive Interleaved Image-Text Generation with Modality-Specific Heads**](https://arxiv.org/pdf/2412.00127) | Orthus | arXiv | 2024-11-28 | Kuaishou | - | - |
+| [**JanusFlow: Harmonizing Autoregression and Rectified Flow for Unified Multimodal Understanding and Generation**](https://arxiv.org/pdf/2411.07975) | JanusFlow | arXiv | 2024-11-12 | DeepSeek, PKU, HKU, THU | [Github](https://github.com/deepseek-ai/Janus) | - |
 | [**PUMA: Empowering Unified MLLM with Multi-granular Visual Generation**](https://arxiv.org/pdf/2410.13861) | PUMA | arXiv | 2024-10-17 | CUHK, HKU, SenseTime, Shanghai AI Lab, THU | [Github](https://github.com/rongyaofang/PUMA) | - |
 | [**Vitron: A Unified Pixel-level Vision LLM for Understanding, Generating, Segmenting, Editing**](https://openreview.net/pdf?id=kPmSfhCM5s) | Vitron | NeurIPS | 2024-09-26 | Skywork AI, NUS, NTU | [Github](https://github.com/SkyworkAI/Vitron) | - |
 | [**MIO: A Foundation Model on Multimodal Tokens**](https://arxiv.org/pdf/2409.17692) | MIO | arXiv | 2024-09-26 | BHU, 01.AI, M-A-P, PolyU, UAlberta, UWaterloo, UoM, CAS, PKU, HKUST | [Github](https://github.com/MIO-Team/MIO) | - |
