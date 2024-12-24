@@ -13,7 +13,7 @@ This repository provides a curated list of related papers and resources, come ta
 `[2024-10-29]` We have released the survey v1: [Towards Unifying Understanding and Generation in the Era of Vision Foundation Models: A Survey from the Autoregression Perspective](https://arxiv.org/abs/2410.22217).
 
 <div align=center>
-<img src="img/timeline.png" width="2400px">
+<img src="img/timeline.png" width="3600px">
 </div>
 
 ---
