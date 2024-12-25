@@ -124,6 +124,7 @@ Here, we also recommend some wonderful related surveys.
 2. [Autoregressive Models in Vision: A Survey](https://arxiv.org/pdf/2411.05902) | [Project Repo](https://github.com/ChaofanTao/Autoregressive-Models-in-Vision-Survey)
 3. [A survey on multimodal large language models](https://arxiv.org/pdf/2306.13549) | [Project Repo](https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models)
 4. [Foundational Models Defining a New Era in Vision: A Survey and Outlook](https://arxiv.org/pdf/2307.13721) | [Project Repo](https://github.com/awaisrauf/Awesome-CV-Foundational-Models)
+5. [Multi-modal generative ai: Multi-modal llm, diffusion and beyond](https://arxiv.org/pdf/2409.14993) | -
 
 ---
 
