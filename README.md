@@ -8,7 +8,7 @@ This repository provides a curated list of related papers and resources, come ta
 
 
 ## 🔥 News
-`[2024-12-24]` We make this repo public, looking forward to your feedbacks. 
+`[2024-12-24]` We open this repo, looking forward to your feedbacks. 
 
 `[2024-12-02]` We build this repo, a complete and revised version of our survey is coming soon.  
 
